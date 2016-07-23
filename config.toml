@@ -6,12 +6,12 @@ preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
 googleAnalytics = ""
-canonifyurls: true
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-indexes:
-  category: "categories"
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+[indexes]
+  category = "categories"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
