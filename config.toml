@@ -5,14 +5,13 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-81346198-1"
 canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 [indexes]
   category = "categories"
-
 [params]
     # Sets the meta tag description, usually reserved for the main page
     description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
